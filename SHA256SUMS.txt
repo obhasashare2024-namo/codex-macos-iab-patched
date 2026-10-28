@@ -1,0 +1,2 @@
+19a04b3f0c65b2d169339a79cafe6a2b8cd3946679f74811f383213bd1ae95be  Codex-Community-Patched-26.623.141536-macOS.tar.zst
+31c25bb3d1f217bce40bd66219eafcb154c3ed699ffec9c61edd10c1a515090f  Codex-Official-Patched-26.1016.62342-macOS.tar.zst
